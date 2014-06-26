@@ -1,0 +1,15 @@
+{
+  "name": "query-immediate-selector",
+  "version": "0.0.0",
+  "description": "Select direct children of element that match a selector.",
+  "main": "index.js",
+  "scripts": {
+    "test": "say sorry && exit 1"
+  },
+  "license": "MIT",
+  "author": "require.io <whoa@require.io> (http://require.io/)",
+  "contributors": [
+    "Tim Oxley",
+    "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)"
+  ]
+}
