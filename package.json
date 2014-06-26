@@ -1,6 +1,6 @@
 {
   "name": "query-immediate-selector",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Select direct children of element that match a selector.",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,22 @@
   "contributors": [
     "Tim Oxley",
     "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/requireio/query-immediate-selector.git"
+  },
+  "keywords": [
+    "query",
+    "immediate",
+    "selector",
+    "child",
+    "parent",
+    "node",
+    "dom"
+  ],
+  "bugs": {
+    "url": "https://github.com/requireio/query-immediate-selector/issues"
+  },
+  "homepage": "https://github.com/requireio/query-immediate-selector"
 }
