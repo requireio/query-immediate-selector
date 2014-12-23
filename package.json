@@ -1,6 +1,6 @@
 {
   "name": "query-immediate-selector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Select direct children of element that match a selector.",
   "main": "index.js",
   "scripts": {
