@@ -28,5 +28,9 @@
   "bugs": {
     "url": "https://github.com/requireio/query-immediate-selector/issues"
   },
-  "homepage": "https://github.com/requireio/query-immediate-selector"
+  "homepage": "https://github.com/requireio/query-immediate-selector",
+  "dependencies": {
+    "sliced": "0.0.5"
+  },
+  "devDependencies": {}
 }
